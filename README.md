@@ -1,2 +1,2 @@
 # Employee Managment Project
- Me and my Colig Create this project 
+ Me and my colleague Create this project 
